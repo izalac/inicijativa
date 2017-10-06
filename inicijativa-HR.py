@@ -1,7 +1,7 @@
 ime = []
 inicijativa = []
 runda = 0
-print("Inicijativa 1.0 (c) 2017 Ivan Žalac\nCC BY 4.0 - https://creativecommons.org/licenses/by/4.0/\n")
+print("Inicijativa 1.0HR (c) 2017 Ivan Žalac\n")
 while True:
     try:
         n = int(input("Broj sudionika: "))
