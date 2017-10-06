@@ -1,7 +1,7 @@
 ime = []
 inicijativa = []
 runda = 0
-print("Inicijativa 1.0EN (c) 2017 Ivan Žalac\n")
+print("Inicijativa 1.0HR (c) 2017 Ivan Žalac\n")
 while True:
     try:
         n = int(input("Broj sudionika: "))
