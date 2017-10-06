@@ -1,7 +1,7 @@
 name = []
 initiative = []
 rnd = 0
-print("Inicijativa 1.0 (c) 2017 Ivan Žalac\n")
+print("Inicijativa 1.0EN (c) 2017 Ivan Žalac\n")
 while True:
     try:
         n = int(input("Number of entries: "))
